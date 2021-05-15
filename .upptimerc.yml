@@ -15,6 +15,7 @@ sites:
     url: $TELEPORT
   - name: IP Checker
     url: https://ip.cjthedj97.me
+    icon: https://cjthedj97.me/fav.ico
   - name: Matrix
     url: https://matrix.cjthedj97.com
     
