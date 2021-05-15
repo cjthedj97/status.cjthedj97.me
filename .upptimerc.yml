@@ -20,10 +20,10 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cjthedj97.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://blog.cjthedj97.me/profilepic-org.jpg
+  name: Status 
   navbar:
-    - title: Status
+    - title: Status Page
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
