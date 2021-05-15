@@ -5,18 +5,18 @@
     "icon": "https://favicons.githubusercontent.com/blog.cjthedj97.me",
     "slug": "blog",
     "status": "down",
-    "uptime": "6.92%",
-    "uptimeDay": "6.92%",
-    "uptimeWeek": "6.92%",
-    "uptimeMonth": "6.92%",
-    "uptimeYear": "6.92%",
-    "time": 251,
-    "timeDay": 251,
-    "timeWeek": 251,
-    "timeMonth": 251,
-    "timeYear": 251,
+    "uptime": "0.11%",
+    "uptimeDay": "0.11%",
+    "uptimeWeek": "0.11%",
+    "uptimeMonth": "0.11%",
+    "uptimeYear": "0.11%",
+    "time": 151,
+    "timeDay": 151,
+    "timeWeek": 151,
+    "timeMonth": 151,
+    "timeYear": 151,
     "dailyMinutesDown": {
-      "2021-05-15": 0
+      "2021-05-15": 7
     }
   },
   {
@@ -25,18 +25,18 @@
     "icon": "https://favicons.githubusercontent.com/portfolio.cjthedj97.me",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "3.01%",
-    "uptimeDay": "3.01%",
-    "uptimeWeek": "3.01%",
-    "uptimeMonth": "3.01%",
-    "uptimeYear": "3.01%",
-    "time": 121,
-    "timeDay": 121,
-    "timeWeek": 121,
-    "timeMonth": 121,
-    "timeYear": 121,
+    "uptime": "0.17%",
+    "uptimeDay": "0.17%",
+    "uptimeWeek": "0.17%",
+    "uptimeMonth": "0.17%",
+    "uptimeYear": "0.17%",
+    "time": 152,
+    "timeDay": 152,
+    "timeWeek": 152,
+    "timeMonth": 152,
+    "timeYear": 152,
     "dailyMinutesDown": {
-      "2021-05-15": 0
+      "2021-05-15": 7
     }
   },
   {
@@ -50,13 +50,13 @@
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 80,
-    "timeDay": 80,
-    "timeWeek": 80,
-    "timeMonth": 80,
-    "timeYear": 80,
+    "time": 69,
+    "timeDay": 69,
+    "timeWeek": 69,
+    "timeMonth": 69,
+    "timeYear": 69,
     "dailyMinutesDown": {
-      "2021-05-15": 0
+      "2021-05-15": 7
     }
   }
 ]
