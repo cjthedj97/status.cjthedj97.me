@@ -28,6 +28,7 @@ status-website:
   # baseUrl: /your-repo-name
   favicon: https://cjthedj97.me/fav.ico
   logoUrl: https://avatars.githubusercontent.com/u/16439760?v=4
+  themeUrl: https://status.cjthedj97.com/dark_blue.css
   name: Status 
   navbar:
     - title: Status Page
