@@ -13,6 +13,13 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: Teleport
     url: $TELEPORT
+  - name: IP Checker
+    url: https://ip.cjthedj97.me
+  - name: Matrix
+    url: https://matrix.cjthedj97.com
+    
+    
+    https://matrix.cjthed
     
 status-website:
   theme: dark
