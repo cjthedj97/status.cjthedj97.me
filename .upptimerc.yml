@@ -18,9 +18,6 @@ sites:
   - name: Matrix
     url: https://matrix.cjthedj97.com
     
-    
-    https://matrix.cjthed
-    
 status-website:
   theme: dark
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
