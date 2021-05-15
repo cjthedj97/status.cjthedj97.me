@@ -5,10 +5,13 @@ repo: status.cjthedj97.com # The name of this repository
 sites:
   - name: Blog
     url: https://blog.cjthedj97.me
+    icon: https://cjthedj97.me/fav.ico
   - name: Portfolio
     url: https://portfolio.cjthedj97.me
+    icon: https://cjthedj97.me/fav.ico
   - name: Homepage
     url: https://cjthedj97.me
+    icon: https://cjthedj97.me/fav.ico
   - name: Teleport
     url: $TELEPORT
     
