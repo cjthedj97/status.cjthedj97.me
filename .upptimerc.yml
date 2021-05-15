@@ -25,6 +25,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cjthedj97.com
   # baseUrl: /your-repo-name
+  favicon: https://cjthedj97.me/fav.ico
   logoUrl: https://avatars.githubusercontent.com/u/16439760?v=4
   name: Status 
   navbar:
