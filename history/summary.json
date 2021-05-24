@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teleport",
     "status": "down",
-    "uptime": "99.88%",
-    "uptimeDay": "98.78%",
-    "uptimeWeek": "99.83%",
-    "uptimeMonth": "99.88%",
-    "uptimeYear": "99.88%",
+    "uptime": "99.67%",
+    "uptimeDay": "96.76%",
+    "uptimeWeek": "99.54%",
+    "uptimeMonth": "99.67%",
+    "uptimeYear": "99.67%",
     "time": 429,
     "timeDay": 402,
     "timeWeek": 397,
     "timeMonth": 429,
     "timeYear": 429,
     "dailyMinutesDown": {
-      "2021-05-24": 17
+      "2021-05-24": 46
     }
   },
   {
@@ -102,17 +102,19 @@
     "url": "https://matrix.cjthedj97.com",
     "icon": "https://favicons.githubusercontent.com/matrix.cjthedj97.com",
     "slug": "matrix",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 724,
-    "timeDay": 731,
-    "timeWeek": 729,
-    "timeMonth": 724,
-    "timeYear": 724,
-    "dailyMinutesDown": {}
+    "time": 969,
+    "timeDay": 2935,
+    "timeWeek": 1280,
+    "timeMonth": 969,
+    "timeYear": 969,
+    "dailyMinutesDown": {
+      "2021-05-24": 0
+    }
   }
 ]
