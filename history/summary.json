@@ -64,10 +64,10 @@
     "url": "$TELEPORT",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teleport",
-    "status": "up",
+    "status": "down",
     "uptime": "99.32%",
-    "uptimeDay": "93.34%",
-    "uptimeWeek": "99.05%",
+    "uptimeDay": "93.26%",
+    "uptimeWeek": "99.04%",
     "uptimeMonth": "99.32%",
     "uptimeYear": "99.32%",
     "time": 430,
@@ -76,7 +76,7 @@
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2021-05-24": 95
+      "2021-05-24": 96
     }
   },
   {
