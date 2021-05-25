@@ -65,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teleport",
     "status": "down",
-    "uptime": "99.32%",
-    "uptimeDay": "93.26%",
-    "uptimeWeek": "99.04%",
-    "uptimeMonth": "99.32%",
-    "uptimeYear": "99.32%",
+    "uptime": "99.12%",
+    "uptimeDay": "91.25%",
+    "uptimeWeek": "98.75%",
+    "uptimeMonth": "99.12%",
+    "uptimeYear": "99.12%",
     "time": 430,
     "timeDay": 413,
     "timeWeek": 402,
     "timeMonth": 430,
     "timeYear": 430,
     "dailyMinutesDown": {
-      "2021-05-24": 96
+      "2021-05-25": 27,
+      "2021-05-24": 98
     }
   },
   {
