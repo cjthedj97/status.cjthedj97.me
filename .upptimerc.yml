@@ -18,9 +18,6 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: Matrix
     url: https://matrix.cjthedj97.com
-  - name: This is a test
-    url: https://thisisatest.cjthedj97.me
-
     
 status-website:
   theme: ocean
