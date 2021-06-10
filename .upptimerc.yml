@@ -18,6 +18,8 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: Matrix
     url: https://matrix.cjthedj97.com
+  - name: Git
+    url: $GIT
     
 status-website:
   theme: ocean
