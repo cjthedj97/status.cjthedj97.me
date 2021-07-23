@@ -100,19 +100,19 @@
     "url": "https://ip.cjthedj97.me",
     "icon": "https://cjthedj97.me/fav.ico",
     "slug": "ip-checker",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.94%",
+    "uptimeDay": "96.05%",
+    "uptimeWeek": "99.44%",
+    "uptimeMonth": "99.87%",
+    "uptimeYear": "99.94%",
     "time": 306,
-    "timeDay": 1760,
-    "timeWeek": 626,
-    "timeMonth": 357,
+    "timeDay": 1259,
+    "timeWeek": 585,
+    "timeMonth": 354,
     "timeYear": 306,
     "dailyMinutesDown": {
-      "2021-07-23": 0
+      "2021-07-23": 57
     }
   },
   {
