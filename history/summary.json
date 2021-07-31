@@ -13,7 +13,7 @@
     "time": 147,
     "timeDay": 284,
     "timeWeek": 138,
-    "timeMonth": 122,
+    "timeMonth": 121,
     "timeYear": 147,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -65,18 +65,19 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teleport",
     "status": "down",
-    "uptime": "99.20%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "98.99%",
-    "uptimeYear": "99.20%",
+    "uptime": "99.17%",
+    "uptimeDay": "97.09%",
+    "uptimeWeek": "99.58%",
+    "uptimeMonth": "98.90%",
+    "uptimeYear": "99.17%",
     "time": 859,
     "timeDay": 533,
     "timeWeek": 430,
-    "timeMonth": 1373,
+    "timeMonth": 1358,
     "timeYear": 859,
     "dailyMinutesDown": {
-      "2021-07-30": 0,
+      "2021-07-31": 20,
+      "2021-07-30": 21,
       "2021-07-20": 77,
       "2021-07-19": 75,
       "2021-07-18": 19,
@@ -110,7 +111,7 @@
     "time": 297,
     "timeDay": 261,
     "timeWeek": 209,
-    "timeMonth": 343,
+    "timeMonth": 341,
     "timeYear": 297,
     "dailyMinutesDown": {
       "2021-07-23": 57
@@ -130,7 +131,7 @@
     "time": 950,
     "timeDay": 647,
     "timeWeek": 739,
-    "timeMonth": 747,
+    "timeMonth": 754,
     "timeYear": 950,
     "dailyMinutesDown": {
       "2021-06-09": 148,
@@ -152,7 +153,7 @@
     "time": 1105,
     "timeDay": 1146,
     "timeWeek": 1045,
-    "timeMonth": 1116,
+    "timeMonth": 1121,
     "timeYear": 1105,
     "dailyMinutesDown": {}
   }
