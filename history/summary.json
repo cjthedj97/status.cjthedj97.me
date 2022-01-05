@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 153,
-    "timeDay": 145,
-    "timeWeek": 119,
-    "timeMonth": 131,
+    "timeDay": 113,
+    "timeWeek": 122,
+    "timeMonth": 130,
     "timeYear": 153,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 140,
-    "timeDay": 173,
+    "timeDay": 113,
     "timeWeek": 121,
-    "timeMonth": 121,
+    "timeMonth": 119,
     "timeYear": 140,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 126,
-    "timeDay": 158,
-    "timeWeek": 108,
-    "timeMonth": 115,
+    "timeDay": 88,
+    "timeWeek": 100,
+    "timeMonth": 113,
     "timeYear": 126,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -65,15 +65,15 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "teleport",
     "status": "up",
-    "uptime": "98.86%",
+    "uptime": "98.87%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "98.86%",
+    "uptimeYear": "98.87%",
     "time": 628,
-    "timeDay": 346,
-    "timeWeek": 420,
-    "timeMonth": 461,
+    "timeDay": 458,
+    "timeWeek": 424,
+    "timeMonth": 443,
     "timeYear": 628,
     "dailyMinutesDown": {
       "2021-12-02": 54,
@@ -117,11 +117,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 246,
-    "timeDay": 153,
-    "timeWeek": 228,
-    "timeMonth": 225,
-    "timeYear": 246,
+    "time": 245,
+    "timeDay": 234,
+    "timeWeek": 223,
+    "timeMonth": 228,
+    "timeYear": 245,
     "dailyMinutesDown": {
       "2021-07-23": 57
     }
@@ -138,8 +138,8 @@
     "uptimeMonth": "92.98%",
     "uptimeYear": "98.50%",
     "time": 825,
-    "timeDay": 886,
-    "timeWeek": 794,
+    "timeDay": 821,
+    "timeWeek": 797,
     "timeMonth": 682,
     "timeYear": 825,
     "dailyMinutesDown": {
