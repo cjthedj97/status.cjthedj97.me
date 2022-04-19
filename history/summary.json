@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 151,
-    "timeDay": 182,
-    "timeWeek": 122,
-    "timeMonth": 147,
+    "timeDay": 148,
+    "timeWeek": 124,
+    "timeMonth": 146,
     "timeYear": 151,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -31,9 +31,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 138,
-    "timeDay": 167,
-    "timeWeek": 141,
-    "timeMonth": 137,
+    "timeDay": 126,
+    "timeWeek": 134,
+    "timeMonth": 135,
     "timeYear": 138,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 149,
-    "timeWeek": 120,
-    "timeMonth": 134,
+    "timeDay": 135,
+    "timeWeek": 122,
+    "timeMonth": 133,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -65,18 +65,18 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nc",
     "status": "up",
-    "uptime": "4.77%",
-    "uptimeDay": "4.77%",
-    "uptimeWeek": "4.77%",
-    "uptimeMonth": "4.77%",
-    "uptimeYear": "4.77%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "uptime": "7.39%",
+    "uptimeDay": "7.39%",
+    "uptimeWeek": "7.39%",
+    "uptimeMonth": "7.39%",
+    "uptimeYear": "7.39%",
+    "time": 5624,
+    "timeDay": 5624,
+    "timeWeek": 5624,
+    "timeMonth": 5624,
+    "timeYear": 5624,
     "dailyMinutesDown": {
-      "2022-04-19": 0
+      "2022-04-19": 2
     }
   },
   {
@@ -91,9 +91,9 @@
     "uptimeMonth": "99.85%",
     "uptimeYear": "99.97%",
     "time": 237,
-    "timeDay": 298,
-    "timeWeek": 264,
-    "timeMonth": 221,
+    "timeDay": 278,
+    "timeWeek": 265,
+    "timeMonth": 224,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-03-22": 59,
@@ -112,11 +112,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "97.13%",
-    "time": 819,
-    "timeDay": 630,
-    "timeWeek": 666,
-    "timeMonth": 590,
-    "timeYear": 819,
+    "time": 817,
+    "timeDay": 520,
+    "timeWeek": 621,
+    "timeMonth": 582,
+    "timeYear": 817,
     "dailyMinutesDown": {
       "2022-03-09": 56,
       "2022-03-05": 1023,
