@@ -65,19 +65,17 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "nc",
     "status": "up",
-    "uptime": "7.39%",
-    "uptimeDay": "7.39%",
-    "uptimeWeek": "7.39%",
-    "uptimeMonth": "7.39%",
-    "uptimeYear": "7.39%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 5624,
     "timeDay": 5624,
     "timeWeek": 5624,
     "timeMonth": 5624,
     "timeYear": 5624,
-    "dailyMinutesDown": {
-      "2022-04-19": 2
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "IP Checker",
