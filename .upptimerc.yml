@@ -11,8 +11,8 @@ sites:
   - name: Homepage
     url: https://cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
-  - name: Teleport
-    url: $TELEPORT
+  - name: NC
+    url: $NC
   - name: IP Checker
     url: https://ip.cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
