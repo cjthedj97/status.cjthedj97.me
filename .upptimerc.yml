@@ -18,6 +18,8 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: Git
     url: $GIT
+  - name: Internal Uptime Moniter
+    url: $intuptimemon
     
 status-website:
   theme: ocean
