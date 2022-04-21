@@ -11,12 +11,12 @@ sites:
   - name: Homepage
     url: https://cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
-  - name: NC
+  - name: NextCloud
     url: $NC
   - name: IP Checker
     url: https://ip.cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
-  - name: Git
+  - name: GitLab
     url: $GIT
   - name: Internal Uptime Moniter
     url: $INTUPMON
