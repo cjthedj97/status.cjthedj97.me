@@ -19,7 +19,7 @@ sites:
   - name: Git
     url: $GIT
   - name: Internal Uptime Moniter
-    url: $intuptimemon
+    url: $INTUPMON
     
 status-website:
   theme: ocean
