@@ -26,6 +26,11 @@ sites:
     url: $INTUPMON
   - name: Home Assistant
     url: $HA
+  - name: Host 1
+    url: $H1  
+  - name: Host 2
+    url: $H2
+
 status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
