@@ -18,6 +18,8 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: GitLab
     url: $GIT
+  - name: Site 1
+    url: $SITE1
   - name: Internal Uptime Moniter
     url: $INTUPMON
     
