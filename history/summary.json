@@ -142,7 +142,7 @@
     "slug": "internal-uptime-moniter",
     "status": "up",
     "uptime": "44.79%",
-    "uptimeDay": "81.66%",
+    "uptimeDay": "81.68%",
     "uptimeWeek": "44.79%",
     "uptimeMonth": "44.79%",
     "uptimeYear": "44.79%",
@@ -200,18 +200,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "host-2",
     "status": "up",
-    "uptime": "6.32%",
-    "uptimeDay": "6.32%",
-    "uptimeWeek": "6.32%",
-    "uptimeMonth": "6.32%",
-    "uptimeYear": "6.32%",
+    "uptime": "100.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "100.00%",
     "time": 58,
     "timeDay": 58,
     "timeWeek": 58,
     "timeMonth": 58,
     "timeYear": 58,
-    "dailyMinutesDown": {
-      "2022-04-22": 4
-    }
+    "dailyMinutesDown": {}
   }
 ]
