@@ -24,7 +24,8 @@ sites:
     port: 53
   - name: Internal Uptime Moniter
     url: $INTUPMON
-    
+  - name: Home Assistant
+    url: $HA
 status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
