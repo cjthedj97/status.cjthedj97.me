@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 151,
-    "timeDay": 130,
-    "timeWeek": 129,
-    "timeMonth": 146,
-    "timeYear": 151,
+    "time": 150,
+    "timeDay": 127,
+    "timeWeek": 128,
+    "timeMonth": 145,
+    "timeYear": 150,
     "dailyMinutesDown": {
       "2021-05-15": 16
     }
@@ -51,9 +51,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 128,
-    "timeDay": 136,
-    "timeWeek": 133,
-    "timeMonth": 134,
+    "timeDay": 138,
+    "timeWeek": 134,
+    "timeMonth": 135,
     "timeYear": 128,
     "dailyMinutesDown": {
       "2021-05-15": 16
@@ -70,11 +70,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 692,
-    "timeDay": 692,
-    "timeWeek": 692,
-    "timeMonth": 692,
-    "timeYear": 692,
+    "time": 870,
+    "timeDay": 870,
+    "timeWeek": 870,
+    "timeMonth": 870,
+    "timeYear": 870,
     "dailyMinutesDown": {}
   },
   {
@@ -89,9 +89,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 237,
-    "timeDay": 254,
-    "timeWeek": 256,
-    "timeMonth": 235,
+    "timeDay": 256,
+    "timeWeek": 257,
+    "timeMonth": 236,
     "timeYear": 237,
     "dailyMinutesDown": {
       "2022-03-22": 59,
@@ -141,19 +141,39 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "internal-uptime-moniter",
     "status": "up",
-    "uptime": "41.71%",
-    "uptimeDay": "72.03%",
-    "uptimeWeek": "41.71%",
-    "uptimeMonth": "41.71%",
-    "uptimeYear": "41.71%",
-    "time": 453,
-    "timeDay": 453,
-    "timeWeek": 453,
-    "timeMonth": 453,
-    "timeYear": 453,
+    "uptime": "44.23%",
+    "uptimeDay": "79.84%",
+    "uptimeWeek": "44.23%",
+    "uptimeMonth": "44.23%",
+    "uptimeYear": "44.23%",
+    "time": 463,
+    "timeDay": 463,
+    "timeWeek": 463,
+    "timeMonth": 463,
+    "timeYear": 463,
     "dailyMinutesDown": {
       "2022-04-21": 1278,
       "2022-04-20": 172
+    }
+  },
+  {
+    "name": "Home Assistant",
+    "url": "$HA",
+    "icon": "https://favicons.githubusercontent.com/null",
+    "slug": "home-assistant",
+    "status": "up",
+    "uptime": "0.00%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
+    "uptimeYear": "0.00%",
+    "time": 594,
+    "timeDay": 594,
+    "timeWeek": 594,
+    "timeMonth": 594,
+    "timeYear": 594,
+    "dailyMinutesDown": {
+      "2021-05-15": 554
     }
   }
 ]
