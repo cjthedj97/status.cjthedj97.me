@@ -18,10 +18,6 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: GitLab
     url: $GIT
-  - name: Site 1
-    check: "tcp-ping"
-    url: $SITE1
-    port: 53
   - name: Internal Uptime Moniter
     url: $INTUPMON
   - name: Home Assistant
