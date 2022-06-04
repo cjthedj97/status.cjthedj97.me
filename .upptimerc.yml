@@ -28,6 +28,8 @@ sites:
     check: "tcp-ping"
     url: $H2
     port: 443
+  - name: Down test
+    url: https://454545544545.cjthedj97.me
 
 status-website:
   theme: ocean
