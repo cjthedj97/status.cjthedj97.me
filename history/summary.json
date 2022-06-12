@@ -110,11 +110,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git-lab",
     "status": "up",
-    "uptime": "82.85%",
+    "uptime": "83.14%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.91%",
-    "uptimeYear": "82.85%",
+    "uptimeYear": "83.14%",
     "time": 512,
     "timeDay": 239,
     "timeWeek": 454,
@@ -141,11 +141,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "internal-uptime-moniter",
     "status": "up",
-    "uptime": "98.02%",
+    "uptime": "98.05%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "98.02%",
+    "uptimeYear": "98.05%",
     "time": 729,
     "timeDay": 145,
     "timeWeek": 445,
@@ -164,7 +164,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.24%",
+    "uptime": "99.25%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -181,10 +181,10 @@
     "url": "$H1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "host-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
+    "uptimeDay": "99.89%",
+    "uptimeWeek": "99.98%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 142,
@@ -192,16 +192,18 @@
     "timeWeek": 98,
     "timeMonth": 162,
     "timeYear": 142,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-12": 2
+    }
   },
   {
     "name": "Host 2",
     "url": "$H2",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "host-2",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -210,6 +212,8 @@
     "timeWeek": 41,
     "timeMonth": 42,
     "timeYear": 43,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-06-12": 0
+    }
   }
 ]
