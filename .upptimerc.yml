@@ -23,11 +23,7 @@ sites:
   - name: Home Assistant
     url: $HA
   - name: Host 1
-    url: $H1  
-  - name: Host 2
-    check: "tcp-ping"
-    url: $H2
-    port: 443
+    url: $H1
 
 status-website:
   theme: ocean
