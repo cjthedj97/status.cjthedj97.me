@@ -117,11 +117,11 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "git-lab",
     "status": "up",
-    "uptime": "83.58%",
+    "uptime": "83.72%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.96%",
-    "uptimeYear": "83.58%",
+    "uptimeYear": "83.72%",
     "time": 520,
     "timeDay": 693,
     "timeWeek": 623,
@@ -182,7 +182,7 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "home-assistant",
     "status": "up",
-    "uptime": "99.58%",
+    "uptime": "99.59%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
@@ -201,9 +201,9 @@
     "url": "$H1",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "host-1",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -212,6 +212,8 @@
     "timeWeek": 82,
     "timeMonth": 93,
     "timeYear": 119,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2022-07-27": 0
+    }
   }
 ]
