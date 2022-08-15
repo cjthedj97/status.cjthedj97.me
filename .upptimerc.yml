@@ -22,8 +22,6 @@ sites:
     url: $INTUPMON
   - name: Home Assistant
     url: $HA
-  - name: Host 1
-    url: $H1
 
 status-website:
   theme: ocean
