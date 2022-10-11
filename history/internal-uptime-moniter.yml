@@ -1,7 +1,7 @@
 url: $INTUPMON
-status: down
-code: 530
-responseTime: 54
-lastUpdated: 2022-10-11T07:48:15.877Z
+status: up
+code: 200
+responseTime: 246
+lastUpdated: 2022-10-11T08:13:59.260Z
 startTime: Wed Apr 20 2022 21:08:28 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
