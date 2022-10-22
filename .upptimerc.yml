@@ -8,9 +8,6 @@ sites:
     icon: https://cjthedj97.me/fav.ico
   - name: Portfolio
     url: https://portfolio.cjthedj97.me
-  - name: Homepage
-    url: https://cjthedj97.me
-    icon: https://cjthedj97.me/fav.ico
   - name: NextCloud
     url: $NC
   - name: IP Checker
