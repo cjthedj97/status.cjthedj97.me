@@ -13,12 +13,8 @@ sites:
   - name: IP Checker
     url: https://ip.cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
-  - name: GitLab
-    url: $GIT
   - name: Internal Uptime Moniter
     url: $INTUPMON
-  - name: Home Assistant
-    url: $HA
 
 status-website:
   theme: ocean
