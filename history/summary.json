@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.95%",
     "uptimeYear": "99.86%",
-    "time": 152,
-    "timeDay": 236,
-    "timeWeek": 189,
-    "timeMonth": 170,
-    "timeYear": 153,
+    "time": 153,
+    "timeDay": 646,
+    "timeWeek": 250,
+    "timeMonth": 186,
+    "timeYear": 154,
     "dailyMinutesDown": {
       "2023-10-30": 20,
       "2023-09-22": 49,
@@ -29,8 +29,7 @@
       "2022-11-15": 104,
       "2022-11-14": 21,
       "2022-11-10": 201,
-      "2022-11-09": 39,
-      "2022-11-08": 17
+      "2022-11-09": 39
     }
   },
   {
@@ -45,9 +44,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.87%",
     "time": 140,
-    "timeDay": 168,
-    "timeWeek": 119,
-    "timeMonth": 146,
+    "timeDay": 197,
+    "timeWeek": 135,
+    "timeMonth": 149,
     "timeYear": 137,
     "dailyMinutesDown": {
       "2022-12-09": 45,
@@ -61,8 +60,7 @@
       "2022-11-15": 104,
       "2022-11-14": 21,
       "2022-11-10": 201,
-      "2022-11-09": 39,
-      "2022-11-08": 17
+      "2022-11-09": 39
     }
   },
   {
@@ -71,16 +69,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "next-cloud",
     "status": "up",
-    "uptime": "89.01%",
-    "uptimeDay": "97.62%",
+    "uptime": "89.03%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "86.24%",
-    "time": 847,
-    "timeDay": 455,
-    "timeWeek": 487,
-    "timeMonth": 476,
-    "timeYear": 571,
+    "time": 848,
+    "timeDay": 619,
+    "timeWeek": 474,
+    "timeMonth": 479,
+    "timeYear": 572,
     "dailyMinutesDown": {
       "2023-11-06": 34,
       "2023-09-03": 199,
@@ -155,15 +153,15 @@
     "slug": "ip-checker",
     "status": "up",
     "uptime": "99.25%",
-    "uptimeDay": "83.70%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "97.67%",
     "uptimeMonth": "99.46%",
     "uptimeYear": "98.25%",
-    "time": 233,
-    "timeDay": 301,
-    "timeWeek": 231,
-    "timeMonth": 237,
-    "timeYear": 236,
+    "time": 232,
+    "timeDay": 369,
+    "timeWeek": 239,
+    "timeMonth": 233,
+    "timeYear": 237,
     "dailyMinutesDown": {
       "2023-11-06": 235,
       "2023-09-13": 31,
@@ -186,8 +184,7 @@
       "2022-11-15": 104,
       "2022-11-14": 21,
       "2022-11-10": 202,
-      "2022-11-09": 39,
-      "2022-11-08": 17
+      "2022-11-09": 39
     }
   },
   {
@@ -197,15 +194,15 @@
     "slug": "internal-uptime-moniter",
     "status": "up",
     "uptime": "98.19%",
-    "uptimeDay": "97.63%",
+    "uptimeDay": "100.00%",
     "uptimeWeek": "99.66%",
     "uptimeMonth": "99.92%",
     "uptimeYear": "97.49%",
     "time": 329,
-    "timeDay": 262,
-    "timeWeek": 288,
-    "timeMonth": 299,
-    "timeYear": 324,
+    "timeDay": 371,
+    "timeWeek": 285,
+    "timeMonth": 301,
+    "timeYear": 325,
     "dailyMinutesDown": {
       "2023-11-06": 34,
       "2023-09-03": 219,
