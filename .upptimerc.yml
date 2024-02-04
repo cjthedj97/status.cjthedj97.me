@@ -18,7 +18,7 @@ status-website:
   theme: ocean
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
-  cname: status.cjthedj97.com
+  cname: status.cjthedj97.me
   # baseUrl: /your-repo-name
   favicon: https://cjthedj97.me/fav.ico
   logoUrl: https://avatars.githubusercontent.com/u/16439760?v=4
