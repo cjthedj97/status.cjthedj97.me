@@ -1,18 +1,19 @@
 # Change these first
 owner: cjthedj97 # Your GitHub organization or username, where this repository lives
-repo: status.cjthedj97.com # The name of this repository
+repo: status.cjthedj97.me # The name of this repository
 
 sites:
   - name: Blog
     url: https://blog.cjthedj97.me
-    icon: https://cjthedj97.me/fav.ico
+    icon: https://cjthedj97.me/assets/favicon.ico
   - name: Portfolio
     url: https://portfolio.cjthedj97.me
+    icon: https://cjthedj97.me/assets/favicon.ico
   - name: NextCloud
     url: $NC
   - name: IP Checker
     url: https://ip.cjthedj97.me
-    icon: https://cjthedj97.me/fav.ico
+    icon: https://cjthedj97.me/assets/favicon.ico
 
 status-website:
   theme: ocean
@@ -20,7 +21,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.cjthedj97.me
   # baseUrl: /your-repo-name
-  favicon: https://cjthedj97.me/fav.ico
+  favicon: https://cjthedj97.me/assets/favicon.ico
   logoUrl: https://avatars.githubusercontent.com/u/16439760?v=4
   name: Status 
   navbar:
