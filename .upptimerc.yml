@@ -16,7 +16,7 @@ sites:
     icon: https://cjthedj97.me/assets/favicon.ico
 
 status-website:
-  theme: custom
+  themeUrl: https://status.cjthedj97.me/custom.css
 
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
