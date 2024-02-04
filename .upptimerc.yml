@@ -13,8 +13,6 @@ sites:
   - name: IP Checker
     url: https://ip.cjthedj97.me
     icon: https://cjthedj97.me/fav.ico
-  - name: Internal Uptime Moniter
-    url: $INTUPMON
 
 status-website:
   theme: ocean
