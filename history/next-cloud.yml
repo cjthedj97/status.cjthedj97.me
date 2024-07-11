@@ -1,7 +1,7 @@
 url: $NC
-status: up
-code: 200
-responseTime: 1405
-lastUpdated: 2024-07-10T23:08:23.998Z
+status: down
+code: 500
+responseTime: 304
+lastUpdated: 2024-07-11T02:02:49.923Z
 startTime: 2022-04-21T21:19:34.000Z
 generator: Upptime <https://github.com/upptime/upptime>
