@@ -9,8 +9,8 @@ sites:
   - name: Portfolio
     url: https://portfolio.cjthedj97.me
     icon: https://cjthedj97.me/assets/favicon.ico
-  - name: NextCloud
-    url: $NC
+  - name: Landing Page
+    url: https://cjthedj97.me
   - name: IP Checker
     url: https://ip.cjthedj97.me
     icon: https://cjthedj97.me/assets/favicon.ico
