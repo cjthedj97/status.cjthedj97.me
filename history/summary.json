@@ -58,17 +58,19 @@
     "url": "https://ip.cjthedj97.me",
     "icon": "https://cjthedj97.me/assets/favicon.ico",
     "slug": "ip-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.53%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 147,
-    "timeDay": 190,
-    "timeWeek": 189,
-    "timeMonth": 228,
+    "timeDay": 165,
+    "timeWeek": 183,
+    "timeMonth": 225,
     "timeYear": 155,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-09-09": 0
+    }
   }
 ]
