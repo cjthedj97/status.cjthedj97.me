@@ -42,19 +42,19 @@
     "url": "https://cjthedj97.me",
     "icon": "https://icons.duckduckgo.com/ip3/cjthedj97.me.ico",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.55%",
+    "uptimeWeek": "99.94%",
+    "uptimeMonth": "99.99%",
     "uptimeYear": "100.00%",
     "time": 177,
-    "timeDay": 339,
-    "timeWeek": 283,
-    "timeMonth": 251,
+    "timeDay": 271,
+    "timeWeek": 266,
+    "timeMonth": 248,
     "timeYear": 177,
     "dailyMinutesDown": {
-      "2025-10-02": 0
+      "2025-10-02": 6
     }
   },
   {
