@@ -4,19 +4,19 @@
     "url": "https://blog.cjthedj97.me",
     "icon": "https://cjthedj97.me/assets/favicon.ico",
     "slug": "blog",
-    "status": "down",
+    "status": "up",
     "uptime": "99.95%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.42%",
+    "uptimeWeek": "99.77%",
+    "uptimeMonth": "99.95%",
     "uptimeYear": "100.00%",
     "time": 239,
-    "timeDay": 201,
-    "timeWeek": 336,
+    "timeDay": 239,
+    "timeWeek": 329,
     "timeMonth": 263,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-11-12": 0
+      "2025-11-12": 23
     }
   },
   {
