@@ -4,7 +4,7 @@
     "url": "https://blog.cjthedj97.me",
     "icon": "https://cjthedj97.me/assets/favicon.ico",
     "slug": "blog",
-    "status": "up",
+    "status": "down",
     "uptime": "99.95%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 336,
     "timeMonth": 263,
     "timeYear": 245,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-12": 0
+    }
   },
   {
     "name": "Portfolio",
