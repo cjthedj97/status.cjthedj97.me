@@ -6,17 +6,17 @@
     "slug": "blog",
     "status": "down",
     "uptime": "99.95%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "99.77%",
-    "uptimeMonth": "99.95%",
-    "uptimeYear": "100.00%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.70%",
+    "uptimeMonth": "99.93%",
+    "uptimeYear": "99.99%",
     "time": 240,
     "timeDay": 236,
     "timeWeek": 269,
     "timeMonth": 275,
     "timeYear": 245,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-11-12": 23
     }
   },
@@ -26,10 +26,10 @@
     "icon": "https://cjthedj97.me/assets/favicon.ico",
     "slug": "portfolio",
     "status": "down",
-    "uptime": "99.96%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptime": "99.95%",
+    "uptimeDay": "99.51%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "99.99%",
     "time": 233,
     "timeDay": 169,
@@ -37,7 +37,7 @@
     "timeMonth": 262,
     "timeYear": 241,
     "dailyMinutesDown": {
-      "2025-11-18": 0,
+      "2025-11-18": 7,
       "2025-10-01": 42
     }
   },
@@ -46,19 +46,19 @@
     "url": "https://cjthedj97.me",
     "icon": "https://icons.duckduckgo.com/ip3/cjthedj97.me.ico",
     "slug": "landing-page",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.52%",
+    "uptimeWeek": "99.93%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 186,
-    "timeDay": 169,
+    "timeDay": 203,
     "timeWeek": 265,
-    "timeMonth": 249,
-    "timeYear": 189,
+    "timeMonth": 250,
+    "timeYear": 190,
     "dailyMinutesDown": {
-      "2025-11-18": 0
+      "2025-11-18": 7
     }
   },
   {
@@ -66,17 +66,19 @@
     "url": "https://ip.cjthedj97.me",
     "icon": "https://cjthedj97.me/assets/favicon.ico",
     "slug": "ip-checker",
-    "status": "up",
+    "status": "down",
     "uptime": "99.55%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 154,
     "timeDay": 159,
-    "timeWeek": 164,
+    "timeWeek": 163,
     "timeMonth": 159,
     "timeYear": 158,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2025-11-18": 0
+    }
   }
 ]
