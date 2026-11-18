@@ -11,13 +11,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 278,
-    "timeDay": 459,
-    "timeWeek": 319,
-    "timeMonth": 337,
-    "timeYear": 279,
-    "dailyMinutesDown": {
-      "2025-11-18": 145
-    }
+    "timeDay": 644,
+    "timeWeek": 372,
+    "timeMonth": 348,
+    "timeYear": 280,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Portfolio",
@@ -31,13 +29,11 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 286,
-    "timeDay": 543,
-    "timeWeek": 326,
-    "timeMonth": 374,
-    "timeYear": 288,
-    "dailyMinutesDown": {
-      "2025-11-18": 183
-    }
+    "timeDay": 488,
+    "timeWeek": 359,
+    "timeMonth": 381,
+    "timeYear": 289,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Landing Page",
@@ -50,13 +46,12 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.94%",
-    "time": 265,
-    "timeDay": 479,
-    "timeWeek": 351,
-    "timeMonth": 394,
-    "timeYear": 269,
+    "time": 266,
+    "timeDay": 506,
+    "timeWeek": 388,
+    "timeMonth": 403,
+    "timeYear": 270,
     "dailyMinutesDown": {
-      "2025-11-18": 126,
       "2026-01-29": 32,
       "2026-04-02": 56,
       "2026-04-20": 83
@@ -73,13 +68,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 135,
-    "timeDay": 175,
-    "timeWeek": 152,
-    "timeMonth": 137,
+    "time": 134,
+    "timeDay": 180,
+    "timeWeek": 132,
+    "timeMonth": 140,
     "timeYear": 121,
-    "dailyMinutesDown": {
-      "2025-11-18": 126
-    }
+    "dailyMinutesDown": {}
   }
 ]
